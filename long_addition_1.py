@@ -21,8 +21,8 @@ If error:
 """
 
 # Problem 1
-sum = 16 + 45 # variable sum created, is the sum of the two addends
-print("{0:<3} + {1:<3} = {2:<4}".format(16,45,sum)) # prints out the the two addends with the sum (formatted to be left aligned)
+sum = 16 + 45                                           # variable sum created, is the sum of the two addends
+print("{0:<3} + {1:<3} = {2:<4}".format(16,45,sum))     # prints out the the two addends with the sum (formatted to be left aligned)
 
 # Problem 2
 sum = 13 + 40
