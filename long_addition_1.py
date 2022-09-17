@@ -15,9 +15,9 @@ To run the program:
     4. A print out of the sums should appear after the cursor
 
 If error:
-    a. make sure python is installed (run: python3 --version)
-    b. make sure you have the file installed and in the current directory
-    c. if you are still having issues or see any general issues in the programming please report using the contact information at end of file.
+    a. make sure python is installed (run: python3 --version) -> https://www.python.org/downloads/
+    b. make sure you have the file installed (on your computer) and in the current directory of the terminal
+    c. if you are still having issues or see any general problems in the programming please report using the contact information at end of this file.
 """
 
 # Problem 1
@@ -163,7 +163,8 @@ print("{0:<3} + {1:<3} = {2:<4}".format(38,56,sum))
 """
 Contact information
 
-General Queries: admin@sophisticatedprimate.com
+General Queries:
+    email:  admin@sophisticatedprimate.com
 Report errors, bugs, and problems at:
     email:  bug@sophisticatedprimate.com
     github: https://github.com/sophisticatedprimate/long_addition_1/issues
