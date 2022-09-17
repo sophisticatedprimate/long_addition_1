@@ -4,12 +4,12 @@ https://docs.python.org/3/
 
 Summations are found in python by using the addition operator (+), in which two addends on either side are summed.
 Basic usage is as follows:
-    print(5 + 3) 
-    sum = addendA + addendB
-    difference = positive + (-negative)
+    print(5 + 3)                            # prints the sum of 5 and 3 to the console (8)
+    sum = addendA + addendB                 # add two variables (addendA and addendB), stores in variable sum
+    difference = positive + (-negative)     # adding a negative is the same as subtracting
 
 To run the program: 
-    1. Open a terminal on a computer with python 3 installed (works with v2 as well)
+    1. Open a terminal on a computer with python 3 installed
     2. Navigate to a directory containing this file (long_addition_1.py)
     3. Run the program with the following command: python3 long_addition_1.py
     4. A print out of the sums should appear after the cursor
