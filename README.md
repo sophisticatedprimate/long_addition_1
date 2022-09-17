@@ -1,5 +1,5 @@
 # Worksheet: Long Addition 1
-35 long addition exercises. Sum two addends, each 1 to 3 digits long. This module also includes a python program (long_addition_1.py) which demonstrates solving each problem using python. This not only demonstrates how to use a software programming language to do addition but checks the correctness of each of the answers given.
+35 long addition exercises. Sum two addends, each 1 to 3 digits long. This module also includes a python program (long_addition_1.py) which demonstrates solving each problem using python. This not only demonstrates how to use a software programming language to do addition but checks the correctness of each of the answers given. Refer to the comment section of the python program for more information.
 
 ## Printout of the Python program
 16  + 45  = 61  \
