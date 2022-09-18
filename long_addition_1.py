@@ -13,6 +13,11 @@ To run the program:
     2. Navigate to a directory containing this file (long_addition_1.py)
     3. Run the program with the following command: python3 long_addition_1.py
     4. A print out of the sums should appear after the cursor
+    
+The other operations used in this program are print(), and format().
+print() is used to display the results of the operation to the console.
+format() is makes it look nice.
+Learn more at: https://docs.python.org/3/tutorial/inputoutput.html
 
 If error:
     a. make sure python is installed (run: python3 --version) -> https://www.python.org/downloads/
